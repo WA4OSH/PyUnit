@@ -4,10 +4,12 @@ PyUnit
 Demo Code for the unittest library, which is PyUnit version bundled with Python since version 2.1
 
 Files:
+ 
 math_unit.py - The python code under test
 pyunit.py - The unittest test cases
 
 Procedure:
+
 1) Install python 3.3.4 and PyScripter 2.5.3.0 on a windows machine
 
 2) Put the python code math_unit.py and pyunit.py into a directory together
@@ -25,7 +27,7 @@ Procedure:
    is because the formula to multiply numbers when called with two numbers has an error in it.  Eliminate the 
    failures by correcting the code in the math_unit.py file.
 
-7) Run the unittests again.  They should pass.
+7) Run the unittests again.  They should pass flawlessly.
 
 
    
